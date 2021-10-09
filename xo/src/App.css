@@ -1,0 +1,58 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  background-color: cornflowerblue;
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
+.all{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+
+.title{
+  font-size: xx-large;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.coll{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.squre{
+  display: flex;
+  justify-content: center;
+  font-size:70px ;
+  padding: 15px;
+  padding-bottom: 35px;
+  padding-top: 0px;
+  height: 70px;
+  width:60px;
+  border:2px solid black;
+  text-align: center;
+}
+.clear{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 5px;
+}
+.button{
+  padding: 5px;
+  padding-left:10px ;
+  padding-right: 10px;
+}
