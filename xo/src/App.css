@@ -28,6 +28,11 @@ body{
   text-align: center;
   margin-bottom: 10px;
 }
+.titl{
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 10px;
+}
 .coll{
   display: flex;
   justify-content: center;
